@@ -26,6 +26,7 @@ The dataset, inspired by OLA's operations, contains comprehensive information ab
 
 💳 Payment Methods: Cash, credit card, digital wallets, and more.
 
+
 **🛠️ Workflow Highlights**
 
 1. 🧹 Data Cleaning in Excel
@@ -83,7 +84,9 @@ Cancellation Analysis.
 
 Payment Method Insights.
 
-🎯 Objectives and Business Value
+
+**🎯 Objectives and Business Value**
+
 🚗 Vehicle Preferences: Which categories are most popular?
 
 📈 Booking and Cancellation Trends: Peak times and operational pain points.
@@ -96,22 +99,14 @@ Payment Method Insights.
 
 These insights enable optimized fleet management, improved customer experiences, and strategic decision-making.
 
-💼 Skills Demonstrated
-Excel:
 
-Data cleaning, transformation, and anomaly detection.
+**💼 Skills Demonstrated**
 
-SQL:
+Excel:Data cleaning, transformation, and anomaly detection.
+SQL:Advanced querying, data aggregation, schema design.
+Power BI:Building dynamic dashboards with filters and visuals.
+Business Analysis:Translating raw datasets into actionable strategies.
 
-Advanced querying, data aggregation, schema design.
-
-Power BI:
-
-Building dynamic dashboards with filters and visuals.
-
-Business Analysis:
-
-Translating raw datasets into actionable strategies.
 
 **🚀 Future Enhancements**
 
@@ -120,6 +115,7 @@ Translating raw datasets into actionable strategies.
 🤖 Machine Learning Models: Predict demand, churn rates, and cancellations.
 
 🚛 Fleet Optimization: Analyze operational efficiencies based on distance and usage patterns.
+
 
 **📝 How to Use This Project**
 
@@ -133,6 +129,7 @@ Translating raw datasets into actionable strategies.
 
 🔎 Explore insights interactively with filters and slicers.
 
+
 **🧰 Tools and Technologies Used**
 
 🧹 Excel for data preparation and cleaning.
@@ -140,6 +137,7 @@ Translating raw datasets into actionable strategies.
 🗄️ SQL for data processing and transformation.
 
 📈 Power BI Desktop for visualization and interactive dashboard building.
+
 
 **🏁 Conclusion**
 
